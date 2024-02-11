@@ -1,4 +1,5 @@
 # excel_challenge
+_This is the first challenge project for the University of Minnesota Data Analytics and Visualization Bootcamp_
 
 # Instructions
 Using the Excel workbook in your .zip file, modify and analyze the sample-project data and try to uncover market trends.
